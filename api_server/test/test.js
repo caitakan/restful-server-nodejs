@@ -1,4 +1,4 @@
-////   http://willi.am/blog/2014/07/28/test-your-api-with-supertest/
+
 
 var request = require('supertest');
 var app = require('../server.js');
